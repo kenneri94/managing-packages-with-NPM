@@ -3,6 +3,7 @@
   "description": " A web that will help developers grow into the field",
   "name": "fcc-learn-npm-package-json",
   "license": "MIT",
+  "version": "1.0.0",
   "keywords": ["Kennedy", "freecodecamp", "Learning proggramming"],
   "dependencies": {
     "express": "^4.14.0"
